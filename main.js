@@ -1,0 +1,5 @@
+window.React = require('react');
+window.ReactDOM = require('react-dom');
+window.$ = require('jquery');
+import './sass/style.js';
+var App = require('./containers/wrapper.jsx');
